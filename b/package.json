@@ -1,0 +1,16 @@
+{
+  "name": "b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "b.ts",
+  "type": "module",
+  "scripts": {
+    "analyze": "ts-node --esm ../analyze.ts ."
+  },
+  "exports": {
+    ".": "./b.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
